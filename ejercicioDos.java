@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author jimmy
+ * @author Jimmy Mijhail Moran Correa
  */
 public class ejercicioDos {
 
