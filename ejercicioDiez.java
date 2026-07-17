@@ -6,7 +6,7 @@ package com.mycompany.ensayodospdos;
 import java.util.Scanner;
 /**
  *
- * @author jimmy
+ * @author Jimmy Mijhail Moran Correa
  */
 public class ejercicioDiez {
 
